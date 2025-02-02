@@ -1,4 +1,4 @@
-/*effects everything*/
+/*Effects everything*/
 html{
     height: 100%;
 }
@@ -19,7 +19,7 @@ body{
     box-sizing: border-box;
 }
 
-/*sub-sections*/
+/*Sub-sections*/
 .container{
     margin-left: auto;
     margin-right: auto;
@@ -79,7 +79,7 @@ footer{
 }
 
 
-/*nav*/
+/*Nav*/
 
 .navContainer{
     display: flex;
@@ -109,9 +109,9 @@ footer{
     transition: color 0.3s ease;
 }
 
-/*main*/
+/*Main*/
 
-/*passage on home page*/
+/*Passage on home page*/
 .mainName{
     padding-top: 20px;
     font-size: 35px;
@@ -119,7 +119,7 @@ footer{
     font-stretch: condensed;
 }
 
-/*search bar*/
+/*Search bar*/
 .searchBar {
     display: flex;
     justify-content: center;
@@ -155,7 +155,7 @@ input[type="text"] {
     padding-top: 40px;
 }
 
-/*'a place where you can find what you are looking for'*/
+/*'A place where you can find what you are looking for'*/
 .entryHeader{
     font-size: 30px;
     word-wrap: break-word;
@@ -168,7 +168,7 @@ input[type="text"] {
     font-size: 15px;
 }
 
-/*design for where screenshot is displayed*/
+/*Design for where screenshot is displayed*/
 .screenshotBox{
     margin-top: 10px;
     text-align: center;
@@ -182,9 +182,9 @@ input[type="text"] {
     justify-content: space-around;
 }
 
-/*section*/
+/*Section*/
 
-/*sponsered products box desgin*/
+/*Sponsered products box desgin*/
 .sponseredProductsBox{
     margin-top: 10px;
     text-align: center;
@@ -198,7 +198,7 @@ input[type="text"] {
     justify-content: space-around;
 }
 
-/*recommendation area and button desgin*/
+/*Recommendation area and button desgin*/
 .recommendationTitle{
     padding-top: 50px;
     font-size: 15px;
@@ -224,7 +224,7 @@ input[type="text"] {
     background-color: #63839C;
 }
 
-/*footer*/
+/*Footer*/
 
 .footerContainer {
     display: flex;
@@ -232,7 +232,7 @@ input[type="text"] {
     flex-wrap: wrap;
 }
 
-/*logo in footer*/
+/*Logo in footer*/
 .footerLogoColumn{
     color: white;
     font-size: 20px;
@@ -241,7 +241,7 @@ input[type="text"] {
     padding-right: 250px;
 }
 
-/*the columns inside of the footer*/
+/*The columns inside of the footer*/
 .footerColumn {
     width: 1500px;
     height: 200px;
@@ -274,7 +274,7 @@ input[type="text"] {
     text-decoration: underline;
 }
 
-/*copyright and company name*/
+/*Copyright and company name*/
 .footerBottom {
     text-align: center;
     padding-top: 7px;
