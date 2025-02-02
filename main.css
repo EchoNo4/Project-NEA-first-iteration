@@ -111,6 +111,7 @@ footer{
 
 /*main*/
 
+/*passage on home page*/
 .mainName{
     padding-top: 20px;
     font-size: 35px;
@@ -118,6 +119,7 @@ footer{
     font-stretch: condensed;
 }
 
+/*search bar*/
 .searchBar {
     display: flex;
     justify-content: center;
@@ -153,6 +155,7 @@ input[type="text"] {
     padding-top: 40px;
 }
 
+/*'a place where you can find what you are looking for'*/
 .entryHeader{
     font-size: 30px;
     word-wrap: break-word;
@@ -165,6 +168,7 @@ input[type="text"] {
     font-size: 15px;
 }
 
+/*design for where screenshot is displayed*/
 .screenshotBox{
     margin-top: 10px;
     text-align: center;
@@ -180,6 +184,7 @@ input[type="text"] {
 
 /*section*/
 
+/*sponsered products box desgin*/
 .sponseredProductsBox{
     margin-top: 10px;
     text-align: center;
@@ -193,6 +198,7 @@ input[type="text"] {
     justify-content: space-around;
 }
 
+/*recommendation area and button desgin*/
 .recommendationTitle{
     padding-top: 50px;
     font-size: 15px;
@@ -226,6 +232,7 @@ input[type="text"] {
     flex-wrap: wrap;
 }
 
+/*logo in footer*/
 .footerLogoColumn{
     color: white;
     font-size: 20px;
@@ -234,6 +241,7 @@ input[type="text"] {
     padding-right: 250px;
 }
 
+/*the columns inside of the footer*/
 .footerColumn {
     width: 1500px;
     height: 200px;
@@ -266,6 +274,7 @@ input[type="text"] {
     text-decoration: underline;
 }
 
+/*copyright and company name*/
 .footerBottom {
     text-align: center;
     padding-top: 7px;
